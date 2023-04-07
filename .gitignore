@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#tmp
+Dataset-Wrapper
+dataset_wrapper.py
+parser.py
+resources
+dataset_modules
